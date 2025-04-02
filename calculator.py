@@ -4,3 +4,5 @@ total = a+b
 print("sum",total)
 
 print("subtraction",b-a)
+
+print("multiplication",b*a)
